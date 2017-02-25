@@ -1,0 +1,20 @@
+h1{
+	color: magenta;
+	font-size: 72px;
+}
+#item2
+{
+	color: gold;
+}
+#item3
+{
+	color: silver;
+}
+img{
+	margin-left: 15%;
+	width: 10%;
+	height: 10%;
+}
+body{
+	background-color: lightblue;
+}
